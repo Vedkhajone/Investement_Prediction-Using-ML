@@ -12,7 +12,6 @@ def index():
     # Render the home page
     return render_template('index.html')
 
-
 @app.route('/predict', methods=['GET', 'POST'])
 def predict():
     # Extract input values from the form
