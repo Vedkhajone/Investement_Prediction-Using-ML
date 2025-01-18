@@ -1,0 +1,57 @@
+2025-01-18 19:35:26,012 - INFO - App is starting...
+2025-01-18 19:35:26,032 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.24.249:5000
+2025-01-18 19:35:26,032 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-18 19:35:34,331 - INFO - Home page accessed.
+2025-01-18 19:35:34,373 - INFO - 192.168.24.249 - - [18/Jan/2025 19:35:34] "GET / HTTP/1.1" 200 -
+2025-01-18 19:35:35,065 - INFO - 192.168.24.249 - - [18/Jan/2025 19:35:35] "GET /static/css/main.css HTTP/1.1" 200 -
+2025-01-18 19:35:35,278 - INFO - 192.168.24.249 - - [18/Jan/2025 19:35:35] "[33mGET /logo.png HTTP/1.1[0m" 404 -
+2025-01-18 19:35:44,063 - INFO - Prediction process started.
+2025-01-18 19:35:44,077 - INFO - Prediction result: 339.1793541694929
+2025-01-18 19:35:44,078 - INFO - 192.168.24.249 - - [18/Jan/2025 19:35:44] "POST /predict HTTP/1.1" 200 -
+2025-01-18 19:35:44,227 - INFO - 192.168.24.249 - - [18/Jan/2025 19:35:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-01-18 19:37:54,496 - INFO - App started
+2025-01-18 19:37:54,525 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.24.249:5000
+2025-01-18 19:37:54,525 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-18 19:37:54,543 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-18 19:37:56,385 - INFO - App started
+2025-01-18 19:37:56,400 - WARNING -  * Debugger is active!
+2025-01-18 19:37:56,405 - INFO -  * Debugger PIN: 110-448-274
+2025-01-18 19:38:06,355 - INFO - Prediction route accessed
+2025-01-18 19:38:06,361 - INFO - Prediction: 339.1793541694929
+2025-01-18 19:38:06,365 - INFO - 192.168.24.249 - - [18/Jan/2025 19:38:06] "POST /predict HTTP/1.1" 200 -
+2025-01-18 19:38:06,540 - INFO - 192.168.24.249 - - [18/Jan/2025 19:38:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-01-18 19:38:14,520 - INFO - Prediction route accessed
+2025-01-18 19:38:14,521 - INFO - Prediction: 339.1793541694929
+2025-01-18 19:38:14,522 - INFO - 192.168.24.249 - - [18/Jan/2025 19:38:14] "POST /predict HTTP/1.1" 200 -
+2025-01-18 19:38:14,650 - INFO - 192.168.24.249 - - [18/Jan/2025 19:38:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-01-18 19:43:58,901 - INFO -  * Detected change in 'c:\\Users\\asus\\Documents\\AI&ML\\Investment-prediction-ML-flask-web-app - Copy\\app.py', reloading
+2025-01-18 19:43:58,906 - INFO -  * Detected change in 'c:\\Users\\asus\\Documents\\AI&ML\\Investment-prediction-ML-flask-web-app - Copy\\app.py', reloading
+2025-01-18 19:43:58,907 - INFO -  * Detected change in 'c:\\Users\\asus\\Documents\\AI&ML\\Investment-prediction-ML-flask-web-app - Copy\\app.py', reloading
+2025-01-18 19:43:59,420 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-18 19:44:01,311 - INFO - App started
+2025-01-18 19:44:01,327 - WARNING -  * Debugger is active!
+2025-01-18 19:44:01,331 - INFO -  * Debugger PIN: 110-448-274
+2025-01-18 19:53:55,151 - INFO - App started
+2025-01-18 19:53:55,167 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.24.249:5000
+2025-01-18 19:53:55,167 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-18 19:53:55,192 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-18 19:53:56,740 - INFO - App started
+2025-01-18 19:53:56,741 - WARNING -  * Debugger is active!
+2025-01-18 19:53:56,757 - INFO -  * Debugger PIN: 110-448-274
+2025-01-18 19:54:01,209 - INFO - Home page rendered
+2025-01-18 19:54:01,212 - INFO - 192.168.24.249 - - [18/Jan/2025 19:54:01] "GET / HTTP/1.1" 200 -
+2025-01-18 19:54:01,321 - INFO - 192.168.24.249 - - [18/Jan/2025 19:54:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-01-18 19:54:01,353 - INFO - 192.168.24.249 - - [18/Jan/2025 19:54:01] "[33mGET /logo.png HTTP/1.1[0m" 404 -
+2025-01-18 19:54:12,703 - INFO - Prediction route accessed
+2025-01-18 19:54:12,723 - INFO - Prediction: 339.1793541694929
+2025-01-18 19:54:12,724 - INFO - 192.168.24.249 - - [18/Jan/2025 19:54:12] "POST /predict HTTP/1.1" 200 -
+2025-01-18 19:54:12,865 - INFO - 192.168.24.249 - - [18/Jan/2025 19:54:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
