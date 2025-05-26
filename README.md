@@ -85,3 +85,6 @@ Open the following URL in your browser:
 ### **Troubleshooting:**
 
 If you encounter any issues such as missing modules or files, ensure all necessary dependencies are installed and that the correct model file (model.pkl) is present.
+
+## 🙌 Acknowledgments
+Built with 🤍 by Ved Khajone
