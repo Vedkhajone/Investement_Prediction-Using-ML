@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/0e29ee40-30e2-426f-af35-275e38607f2b)# **Investment Prediction Application**
+# **Investment Prediction Application**
 
 This project leverages machine learning to predict stock price movements using historical data. The solution includes data preprocessing, a trained machine learning model, and a web-based user interface for testing and interaction. 
 
-https://github.com/user-attachments/assets/645cb5b3-08cd-4850-8d20-1e725fdba3b1
+![image](https://github.com/user-attachments/assets/0e29ee40-30e2-426f-af35-275e38607f2b)
 
 
 ## **Features**
